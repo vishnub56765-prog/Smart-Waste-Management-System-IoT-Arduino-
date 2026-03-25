@@ -1,0 +1,26 @@
+📄 Smart Waste Management System – Project Document
+1. Project Description
+
+The Smart Waste Management System is an IoT-based solution designed to monitor garbage levels in bins using sensors. It automates waste collection by notifying authorities when bins are full, reducing manual inspection, fuel consumption, and improving urban cleanliness.
+
+2. Objectives
+Monitor waste levels in real-time
+Send alerts when garbage bins are full
+Optimize waste collection routes
+Reduce environmental pollution
+3. Technologies Used
+
+Hardware:
+
+Arduino Nano / Uno
+Ultrasonic Sensor
+GSM Module
+
+Software:
+
+Arduino IDE
+
+Concepts:
+
+Internet of Things (IoT)
+Embedded Systems
